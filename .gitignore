@@ -1,0 +1,9 @@
+# Files
+*.jpg
+*.JPEG
+*.csv
+*.zip
+
+# Directories
+*.ipynb_checkpoints
+*__pycache__
