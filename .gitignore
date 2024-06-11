@@ -7,3 +7,6 @@
 # Directories
 *.ipynb_checkpoints
 *__pycache__
+**/.jupyter/
+**/.local/
+**/.npm/
